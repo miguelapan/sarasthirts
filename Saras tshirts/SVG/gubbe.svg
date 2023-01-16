@@ -1,0 +1,16 @@
+<svg width="61" height="76" viewBox="0 0 61 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="30.5" cy="38" rx="30.5" ry="38" fill="#EFF19B"/>
+<ellipse cx="20" cy="24" rx="7" ry="6" fill="#A02C2C"/>
+<ellipse cx="42" cy="24" rx="7" ry="6" fill="#A02C2C"/>
+<path d="M30 33L34.3301 45H25.6699L30 33Z" fill="#D9D9D9"/>
+<line x1="9.56588" y1="55.7519" x2="13.5659" y2="48.7519" stroke="black"/>
+<line x1="17.5659" y1="56.7519" x2="21.5659" y2="49.7519" stroke="black"/>
+<line x1="25.5659" y1="57.7519" x2="29.5659" y2="50.7519" stroke="black"/>
+<line y1="-0.5" x2="6.60019" y2="-0.5" transform="matrix(0.606043 -0.795432 0.919145 0.393919 34 58.25)" stroke="black"/>
+<line y1="-0.5" x2="6.60019" y2="-0.5" transform="matrix(0.606043 -0.795432 0.919145 0.393919 42 58.25)" stroke="black"/>
+<line x1="13.424" y1="48.735" x2="18.424" y2="56.735" stroke="black"/>
+<line x1="21.424" y1="49.735" x2="26.424" y2="57.735" stroke="black"/>
+<line x1="29.424" y1="50.735" x2="34.424" y2="58.735" stroke="black"/>
+<line y1="-0.5" x2="7.81025" y2="-0.5" transform="matrix(0.640184 0.768221 -0.905459 0.424434 37 53)" stroke="black"/>
+<line y1="-0.5" x2="7.81025" y2="-0.5" transform="matrix(0.640184 0.768221 -0.905459 0.424434 45 53)" stroke="black"/>
+</svg>
